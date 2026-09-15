@@ -1,1 +1,1 @@
-<img src="images/IMG_2924.jpeg" alt="FOR GITHUB!!!" width="500">
+<img src="IMG_2924.jpeg" alt="FOR GITHUB!!!" width="500">
